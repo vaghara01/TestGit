@@ -5,6 +5,7 @@ go to specific folder where your file is there by git base
 4 git commit( commit file to local git repo)
 5 git  remote -v( display github url wher files are beng saved)
 6 git push origin master(push all the all stging files to github repo)
+7 check github
 
 
 
